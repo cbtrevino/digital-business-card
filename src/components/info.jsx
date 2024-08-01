@@ -2,7 +2,7 @@ import '/src/App.css';
 export default function Info() {
     return (
         <>
-        <img src="/images/Selfie.png" className="selfie"/>
+        <img src="./images/Selfie.png" className="selfie"/>
         <h1 className="name">Cezar Breeman Trevino</h1>
         <h2 className="job">React Developer</h2>
         <div className="social-btns">
